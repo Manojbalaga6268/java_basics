@@ -15,7 +15,7 @@ public class SwapTwoNumbers {
 		a = b;
 		b = temp;
 		
-		//
+		// after swapping
 		
 		System.out.println("a : " + a);
 		System.out.println("b: " + b);
