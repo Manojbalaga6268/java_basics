@@ -10,9 +10,10 @@ public class Divisibleby5 {
 			System.out.println("a :" + a);
 			System.out.println("a is divisible by 5");
 		}
-		if (a % 5 != 0) {
-			System.out.println("a is not divisible by 5");
+		if (a % 6 != 0) {
+			System.out.println("a is not divisible by 6");
 		}
+		
 	}
 
 }

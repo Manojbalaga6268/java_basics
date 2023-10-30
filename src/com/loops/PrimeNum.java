@@ -3,7 +3,7 @@ package com.loops;
 public class PrimeNum {
 	public static void main(String[] args) {
 
-		int num = 12;
+		int num = 11;
 		int count = 2;
 		boolean isprime = true;
 

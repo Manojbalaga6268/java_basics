@@ -4,10 +4,10 @@ public class PrimeNumber {
 
 	public static void main(String[] args) {
 
-		int number = 16;
+		int number = 11;
 		int count = 2;
 		boolean isPrime = true;
-		while (count < 11) {
+		while (count < 5) {
 
 			if (number % count == 0) {
 				isPrime =false;

@@ -10,22 +10,22 @@ public class SwitchExample2 {
 		
 		case 10:
 			System.out.println(" it is 10 ");
-			//break;
+			break;
 		case 40:
 			System.out.println(" it is 40 ");
-			//break;
+			break;
 		case 50:
 			System.out.println(" it is 50 ");
-			//break;
+			break;
 		case 55:
 			System.out.println(" it is 55 ");
-			//break;
+			break;
 		case 30: 
 		    System.out.println(" it is 30 ");
-		    //break;
+		    break;
 		case 60:
 			System.out.println(" it is 60 ");
-			//break;
+			break;
 			
 		
 		
