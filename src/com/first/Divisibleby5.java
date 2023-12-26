@@ -5,7 +5,7 @@ public class Divisibleby5 {
 	public static void main(String[] args) {
 
 		int a = 20;
-
+		//comment
 		if (a % 5 == 0) {
 			System.out.println("a :" + a);
 			System.out.println("a is divisible by 5");
